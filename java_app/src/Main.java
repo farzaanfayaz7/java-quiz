@@ -46,6 +46,7 @@
                 }
 
                 System.out.println("Your score is : " + score + "/" + questions.length);
+                System.out.println("Your grades in percentage are : " + (score * 100 / questions.length) + "%");
 
 
             }
